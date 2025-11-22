@@ -1,0 +1,2 @@
+source /home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/bootloader/gdbinit/symbols
+source /home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/bootloader/gdbinit/connect

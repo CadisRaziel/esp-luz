@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/CMakeFiles/bootloader
+/home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/CMakeFiles/bootloader.rule
+/home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/CMakeFiles/bootloader-complete.rule
+/home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/youswordvsmydagger/Documents/espressif_project/esp-luz/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
